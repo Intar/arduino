@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For LCD3Wire
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LCD3Wire KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init 		KEYWORD2
+print 		KEYWORD2
+printIn 	KEYWORD2
+commandWrite 	KEYWORD2
+clear 		KEYWORD2
+cursorTo 	KEYWORD2
+leftScroll 	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
